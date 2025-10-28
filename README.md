@@ -1,7 +1,7 @@
 
 # Hi there, I'm Abhishek Ravula 👋
 
-I'm a passionate Software Engineer with a focus on creating impactful and user-friendly applications. With 3 years of experience in software development, I've worked on various projects involving **React.js**, **React Native**, **Remix.js**, and **Firebase**, helping to deliver high-quality solutions for both mobile and web platforms.
+I'm a passionate Software Engineer with a focus on creating impactful and user-friendly applications. With 3.11 years of experience in software development, I've worked on various projects involving **React.js**, **React Native**, **Next.js**, and **Firebase**, helping to deliver high-quality solutions for both mobile and web platforms.
 
 
 ## 👨‍💻 About Me
@@ -16,19 +16,19 @@ I'm a passionate Software Engineer with a focus on creating impactful and user-f
 
 **Frontend:**
 - React.js, React Native
-- Remix.js, Tailwind CSS
+- Next.js, Tailwind CSS
 - TypeScript, JavaScript, HTML, CSS
 
 **Backend:**
 - Node.js, Express.js
-- Firebase (Firestore, Cloud Functions, Remote Config)
-- Shopify API, MySQL, MongoDB
+- Firebase (Firestore, Cloud Functions, Cloud Messaging, Remote Config)
+- MongoDB, Shopify API, MySQL 
 
 **Testing:**
 - Jest, Testing Library
 
 **Tools & Platforms:**
-- Git, GitHub, Firebase, Expo Go
+- AWS, Firebase, Git, GitHub, GitHub Actions, Expo Go
 - Android Studio, Xcode
 
 
