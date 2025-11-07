@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with a focus on creating impactful and user-f
 ## 🛠️ Technologies & Tools
 
 **Frontend:**
-- React.js, React Native
+- React.js, React Native, Expo
 - Next.js, Tailwind CSS
 - TypeScript, JavaScript, HTML, CSS
 
