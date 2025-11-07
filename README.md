@@ -1,7 +1,7 @@
 
 # Hi there, I'm Abhishek Ravula 👋
 
-I'm a passionate Software Engineer with a focus on creating impactful and user-friendly applications. With 3.11 years of experience in software development, I've worked on various projects involving **React.js**, **React Native**, **Next.js**, and **Firebase**, helping to deliver high-quality solutions for both mobile and web platforms.
+I'm a passionate Software Engineer with a focus on creating impactful and user-friendly applications. With 4+ years of experience in software development, I've worked on various projects involving **React.js**, **React Native**, **Next.js**, and **Firebase**, helping to deliver high-quality solutions for both mobile and web platforms.
 
 
 ## 👨‍💻 About Me
